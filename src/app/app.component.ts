@@ -1,5 +1,5 @@
 import { Component } from "@angular/core";
-import { RouterLink, RouterModule, RouterOutlet } from "@angular/router";
+import { RouterModule, RouterOutlet } from "@angular/router";
 import { HeroesComponent } from "./heroes/heroes.component";
 import { MessagesComponent } from "./messages/messages.component";
 
